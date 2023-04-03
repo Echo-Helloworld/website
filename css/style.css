@@ -48,6 +48,7 @@
 
 .site-main .site-banner {
     background: url(../img/banner/home-banner.png) no-repeat 0% 50%;
+    height: 500px;
 }
 
 .site-main .site-banner .site-title h3{
